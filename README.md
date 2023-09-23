@@ -1,12 +1,10 @@
 # Open-Source Water Meter Enclsoure Design
 
-![Project Image](assets/exploded_view.png)
+![Project Image](assets/case.png)
 
 ## Description
 
 This repository contains the open-source CAD files for the YDrip water meter.
-
-`Bottom_Cover_Pierced.stp` contains holes for development headers.
 
 ## License
 
